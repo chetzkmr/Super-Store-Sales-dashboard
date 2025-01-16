@@ -1,4 +1,4 @@
-# SuperStore Sales Analysis
+# Super Store Sales Analysis
 
 ## Overview
 This Power BI project analyzes sales data from a fictional SuperStore, focusing on key metrics such as revenue, profit, and customer behavior. The project provides actionable insights for decision-making by leveraging Power BI’s interactive visualizations and robust data modeling capabilities.
